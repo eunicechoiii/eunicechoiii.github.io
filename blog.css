@@ -1,0 +1,34 @@
+.cards-1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 10rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cards-2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.zara {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  height: auto;
+}
+
+.pagination {
+  padding-top: 10rem;
+}
+
+.container {
+  font-family: "Montserrat", sans-serif;
+  font-style: bold;
+}
+
+.nav {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+}
